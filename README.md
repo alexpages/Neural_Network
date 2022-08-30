@@ -2,11 +2,10 @@
 The main purpose is to analyze the precission of a few CNN regarding a pre-defined dataset with pictures of dogs and cats. This project creates simple CNNs and Xception neural network, and also it creates datagenerator together with plot functions.
 
 ## Project Description
-This is was a Uni project form the Master's Degree in Informatics Engineering. It evalua project was done with the intention to understand the following:
+This was a Uni project form the Master's Degree in Informatics Engineering. This project was done with the intention to achieve the following:
   - Understand CNN and its composition (Feature Extractor, Classificator, type of Layers, etc.).
-  
-  - Manage data using libraries such as Numpy, Pandas, Matplotlib.
-  - Undertake data augmentation by applying distortion to the initial data.
+  - Data management using libraries such as Numpy, Pandas, Matplotlib.
+  - Perform data augmentation by applying distortion to the initial data.
   - Create Data Generators to divide data into Testing, Training and Validation, in order to train the CNN along certain amount of Epochs.
   - Understand the evolution of Accuracy/Loss graphs from CNN training.
   - Brief understanding of more complex CNN such as Xception.
@@ -14,7 +13,7 @@ This is was a Uni project form the Master's Degree in Informatics Engineering. I
 Note that this project is mainly for studying purpose, therefore, there are a lot of comments along the code that one may find excessive. Feel free to remove them.
  
 ## How to Install and Run the Project
-This run this project I used Google Collab. To run it the same way as I did make sure to have the two following files in the same Google Drive folder:
+To run this this project I used Google Collab. To run it the same way as I did make sure to have the two following files in the same Google Drive folder:
   - File with all the code (.ipynb)
   - Data to be used (.zip). For the .zip file, please unwrape it so it is located in the same Drive folder as the code file.
 
